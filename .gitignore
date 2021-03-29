@@ -4,6 +4,7 @@
 
 # Xcode
 #
+woocommerce_key.js
 build/
 *.pbxuser
 !default.pbxuser
